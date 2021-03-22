@@ -23,6 +23,6 @@ Paste these commands in Terminal.one by one.
 
 
 Enjoy.....
-Some screenshots:--
+
 
 
