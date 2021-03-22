@@ -14,9 +14,9 @@ Paste these commands in Terminal.one by one.
 2:- pkg upgrade
 3:- pkg install git
 4:- pkg install python
-5:- git clone GitHub url
+5:- git clone https://github.com/stark136/stark
 6:- ls
-7:- cd CALCULATOR
+7:- cd stark
 8:- ls
 9:- python calculator.py
 
