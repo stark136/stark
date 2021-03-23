@@ -107,7 +107,7 @@ if "2" in q:
         s=c*a
         print("table of ",a,"*",c, "=", s)
         c=c+1
-      
+# MADE BY ANSHUMAAN SHARMA IN INDIA..  
            
     
 
