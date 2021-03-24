@@ -23,7 +23,7 @@ Paste these commands in Terminal.one by one.
 
 4:- pkg install python
 
-5:- git clone
+5:- git clone https://github.com/stark136/stark/blob/main/README.md
 
 6:- ls
 
