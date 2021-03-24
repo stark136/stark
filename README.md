@@ -9,7 +9,7 @@ IT IS A basic animation of a music player.
  
 ITS REQUIREMENTS IS JUST:-
 
-1: PYTHON3 THAT'S IT...
+1: PYTHON3 and colorama THAT'S IT...
 
 Steps are:-
  
@@ -23,6 +23,8 @@ Paste these commands in Terminal.one by one.
 
 4:- pkg install python
 
+   pip install colorama
+ 
 5:- git clone https://github.com/stark136/stark
 
 6:- ls
