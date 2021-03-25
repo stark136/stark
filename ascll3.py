@@ -25,7 +25,7 @@ if 'stark' in z:
 
   filenames=("music.py","music2.py")
   frames=[]
-  os.system('cls')
+  os.system('clear')
 
   for name in filenames:
     with open(name,"r",encoding="utf8") as f:
@@ -44,6 +44,6 @@ if 'stark' in z:
      
      time.sleep(0.02)
      
-     os.system('cls')
+     os.system('clear')
 
     
